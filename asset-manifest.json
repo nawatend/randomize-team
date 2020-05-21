@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nawatend/randomize-team/static/css/main.92e789bf.chunk.css",
+    "main.js": "/nawatend/randomize-team/static/js/main.04b980ac.chunk.js",
+    "main.js.map": "/nawatend/randomize-team/static/js/main.04b980ac.chunk.js.map",
+    "runtime-main.js": "/nawatend/randomize-team/static/js/runtime-main.acb7402e.js",
+    "runtime-main.js.map": "/nawatend/randomize-team/static/js/runtime-main.acb7402e.js.map",
+    "static/js/2.e0af86db.chunk.js": "/nawatend/randomize-team/static/js/2.e0af86db.chunk.js",
+    "static/js/2.e0af86db.chunk.js.map": "/nawatend/randomize-team/static/js/2.e0af86db.chunk.js.map",
+    "index.html": "/nawatend/randomize-team/index.html",
+    "precache-manifest.1d25e547782bb1294e0601b3a087a512.js": "/nawatend/randomize-team/precache-manifest.1d25e547782bb1294e0601b3a087a512.js",
+    "service-worker.js": "/nawatend/randomize-team/service-worker.js",
+    "static/css/main.92e789bf.chunk.css.map": "/nawatend/randomize-team/static/css/main.92e789bf.chunk.css.map",
+    "static/js/2.e0af86db.chunk.js.LICENSE.txt": "/nawatend/randomize-team/static/js/2.e0af86db.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nawatend/randomize-team/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acb7402e.js",
+    "static/js/2.e0af86db.chunk.js",
+    "static/css/main.92e789bf.chunk.css",
+    "static/js/main.04b980ac.chunk.js"
+  ]
+}
